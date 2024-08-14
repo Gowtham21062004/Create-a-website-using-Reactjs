@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Create-a-website-using-Reactjs/static/css/main.be18994c.css",
+    "main.js": "/Create-a-website-using-Reactjs/static/js/main.9bb89099.js",
+    "static/js/453.5e560239.chunk.js": "/Create-a-website-using-Reactjs/static/js/453.5e560239.chunk.js",
+    "static/media/1img.avif": "/Create-a-website-using-Reactjs/static/media/1img.102bf61419a191491164.avif",
+    "static/media/logo.svg": "/Create-a-website-using-Reactjs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Create-a-website-using-Reactjs/index.html",
+    "main.be18994c.css.map": "/Create-a-website-using-Reactjs/static/css/main.be18994c.css.map",
+    "main.9bb89099.js.map": "/Create-a-website-using-Reactjs/static/js/main.9bb89099.js.map",
+    "453.5e560239.chunk.js.map": "/Create-a-website-using-Reactjs/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be18994c.css",
+    "static/js/main.9bb89099.js"
+  ]
+}
